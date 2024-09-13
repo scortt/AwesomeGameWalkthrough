@@ -25,7 +25,7 @@ A collection of walkthroughs for awesome games.
 
 ### Walkthrough in English
 
-[Hollow Knight Walkthrough in Chinese](https://www.youtube.com/watch?v=G1atkq4C1KU)
+[Hollow Knight Walkthrough in English](https://www.youtube.com/watch?v=G1atkq4C1KU)
 
 ## 
 
