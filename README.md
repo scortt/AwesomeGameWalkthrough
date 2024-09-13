@@ -10,7 +10,7 @@ A collection of walkthroughs for awesome games.
 
 ### Walkthrough
 
-[![Metroid Dread Walkthrough](https://www.bilibili.com/video/BV19q4y197jG)
+[Metroid Dread Walkthrough](https://www.bilibili.com/video/BV19q4y197jG)
 
 
 
