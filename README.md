@@ -8,9 +8,11 @@ A collection of walkthroughs for awesome games.
 
 **Metacritic Score:** 88/100
 
-### Walkthrough
+### Walkthrough in Chinese
 
 [Metroid Dread Walkthrough in Chinese](https://www.bilibili.com/video/BV19q4y197jG)
+
+### Walkthrough in English
 
 [![Metroid Dread Walkthrough (English)](https://img.youtube.com/vi/7_YC7IW1zCU/0.jpg)](https://www.youtube.com/watch?v=7_YC7IW1zCU "Metroid Dread Walkthrough (English)")
 
