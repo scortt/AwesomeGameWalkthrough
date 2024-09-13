@@ -18,7 +18,7 @@ A collection of walkthroughs for awesome games.
 
 ## Hollow Knight
 
-![Hollow Knight Logo](https://static.metacritic.com/images/products/games/8/70c58b1b9bda48c4b6b9c8dae5e3bfda-98.jpg)
+![Hollow Knight Logo](https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-623148-52.jpg)
 
 ![Metacritic Score](https://img.shields.io/badge/Metacritic-90%2F100-green?style=flat-square&logo=metacritic)
 ![User Score](https://img.shields.io/badge/User%20Score-8.9%2F10-blue?style=flat-square&logo=metacritic)
