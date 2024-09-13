@@ -23,6 +23,9 @@ A collection of walkthroughs for awesome games.
 ![Metacritic Score](https://img.shields.io/badge/Metacritic-90%2F100-green?style=flat-square&logo=metacritic)
 ![User Score](https://img.shields.io/badge/User%20Score-8.9%2F10-blue?style=flat-square&logo=metacritic)
 
+### Walkthrough in English
+
+[Hollow Knight Walkthrough in Chinese](https://www.youtube.com/watch?v=G1atkq4C1KU)
 
 ## 
 
