@@ -6,11 +6,13 @@ A collection of walkthroughs for awesome games.
 
 ![Metroid Dread Logo](https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-803951-52.jpg)
 
-![Metacritic Score](https://img.shields.io/badge/Metacritic-88%2F100-brightgreen)
+**Metacritic Score:** 88/100
 
 ### Walkthrough
 
 [Metroid Dread Walkthrough in Chinese](https://www.bilibili.com/video/BV19q4y197jG)
+
+[![Metroid Dread Walkthrough (English)](https://img.youtube.com/vi/7_YC7IW1zCU/0.jpg)](https://www.youtube.com/watch?v=7_YC7IW1zCU "Metroid Dread Walkthrough (English)")
 
 
 
